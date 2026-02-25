@@ -15,19 +15,18 @@ I am a software engineer with a deep passion for the **Mobile Ecosystem**. While
 
 ### 🛠 My Technical Toolkit
 
-**Android & Core (Main Focus)**
-- **Android Development** ![Android](https://geps.dev/progress/90?dangerColor=800000&warningColor=ffec19&successColor=3ddc84)
-- **Kotlin & Java** ![Kotlin/Java](https://geps.dev/progress/80?dangerColor=800000&warningColor=ffec19&successColor=7f52ff)
-- **Dart & Flutter** ![Flutter](https://geps.dev/progress/70?dangerColor=800000&warningColor=ffec19&successColor=02569B)
+**Main Expertise**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Data**
-- **SQL** ![SQL](https://geps.dev/progress/80?dangerColor=800000&warningColor=ffec19&successColor=4479a1)
-- **C# / .NET** ![C#](https://geps.dev/progress/70?dangerColor=800000&warningColor=ffec19&successColor=239120)
-
-**Web Integration**
-- **JS / TS + Vue** ![Vue](https://geps.dev/progress/60?dangerColor=800000&warningColor=ffec19&successColor=41b883)
-
----
+**Support Stack**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### 📊 My GitHub Insights
 <p align="left">
