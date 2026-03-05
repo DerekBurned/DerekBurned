@@ -1,19 +1,19 @@
-# Hi there, I'm Derek 👋
+# Hi there, I'm Derek 
 
-### 📱 Android Specialist & Mobile Developer
+###  Android Specialist & Mobile Developer
 I am a software engineer with a deep passion for the **Mobile Ecosystem**. While I'm a polyglot at heart, my current world revolves around **Native Android Development**. I believe in writing clean, testable code (MVVM/MVI) and creating fluid user experiences that feel natural.
 
 ---
 
-### 🔍 About Me
-- 🔭 **Currently focusing on:** Advanced Android patterns, Jetpack Compose, and optimizing Kotlin Coroutines for high-performance apps.
-- 🛠 **Architecture:** I'm a big advocate for Clean Architecture and Modularization to keep projects scalable.
-- ⚡ **The Goal:** Bridging the gap between complex backend logic and beautiful, responsive mobile interfaces.
-- 🎓 **Always Learning:** Currently diving deeper into KMP to expand my cross-platform capabilities.
+###  About Me
+-  **Currently focusing on:** Advanced Android patterns, Jetpack Compose,Backend in Java with Spring framework, IOS mobile development, and optimizing Kotlin Coroutines for high-performance apps.
+-  **Architecture:** I'm a big advocate for Clean Architecture and Modularization to keep projects scalable.
+-  **The Goal:** Bridging the gap between complex backend logic and beautiful, responsive mobile interfaces.
+-  **Always Learning:** Currently diving deeper into KMP to expand my cross-platform capabilities.
 
 ---
 
-### 🛠 My Technical Toolkit
+###  My Technical Toolkit
 
 **Main Expertise**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
@@ -28,7 +28,7 @@ I am a software engineer with a deep passion for the **Mobile Ecosystem**. While
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### 📊 My GitHub Insights
+###  My GitHub Insights
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DerekBurned&show_icons=true&theme=radical&count_private=true" alt="DerekBurned stats" height="180px" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DerekBurned&layout=compact&theme=radical" alt="Top Langs" height="180px" />
@@ -36,5 +36,5 @@ I am a software engineer with a deep passion for the **Mobile Ecosystem**. While
 
 ---
 
-### 📫 Connect with Me
-- 📧 [Email](mailto:ddanillolka2@gmail.com)
+###  Connect with Me
+-  [Email](mailto:ddanillolka2@gmail.com)
