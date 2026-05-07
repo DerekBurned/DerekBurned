@@ -1,11 +1,11 @@
-# Hi there, I'm Danylo (Derek) 👋
+# Hi there, I'm Danylo (Derek) 
 ### Android & Java Engineer | Full-Stack Enthusiast
 
 I'm a Computer Science student and software engineer focused on the **Mobile Ecosystem** and **Backend Integration**. My experience ranges from building **headless Android SDKs** for IoT device communication to developing full-stack applications with **Spring Boot** and **Jetpack Compose**. I specialize in creating clean, testable architectures that bridge the gap between low-level hardware communication and modern user interfaces.
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - **Current Focus:** Building out **Expense Sync** (a full-stack finance app with a Java Spring Boot REST API + Jetpack Compose client), and exploring **AI Agent orchestration**.
 - **Internship Experience:** Developed a commercial Android SDK for **Bluetooth LE (GATT)** communication at IoT Solutions (Mar–Aug 2025), with deterministic unit testing using **JUnit5** and **MockK** — no real hardware required.
@@ -14,7 +14,7 @@ I'm a Computer Science student and software engineer focused on the **Mobile Eco
 
 ---
 
-### 🛠 My Technical Toolkit
+### My Technical Toolkit
 
 **Core Expertise**
 
@@ -34,7 +34,7 @@ I'm a Computer Science student and software engineer focused on the **Mobile Eco
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 - **[Expense Sync](https://github.com/DerekBurned)** *(2026 – present)* — Full-stack finance ecosystem: **Java Spring Boot REST API** (Spring Data JPA, MySQL/H2/SQLite profiles, layered service/repository architecture) + **Jetpack Compose** Android client with MVVM, Coroutines/Flow, and Room local caching.
 - **IoT Android SDK** *(2025)* — Headless **BLE/GATT** SDK for IoT device communication, built during internship. Interface-based public API, GATT server/client roles, and full JUnit/MockK unit test coverage without real hardware.
@@ -43,7 +43,7 @@ I'm a Computer Science student and software engineer focused on the **Mobile Eco
 
 ---
 
-### 🎓 Education & Training
+### Education & Training
 
 - **B.Eng. in Computer Science** (Mobile & App Dev) – Akademia Bialska im. Jana Pawła II *(2023 – present)*
   - Coursework: OOP, Algorithms & Data Structures, Databases, Networking, Mobile App Development
@@ -51,7 +51,7 @@ I'm a Computer Science student and software engineer focused on the **Mobile Eco
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - **Email:** [danillolka2@gmail.com](mailto:danillolka2@gmail.com)
 - **GitHub:** [DerekBurned](https://github.com/DerekBurned)
@@ -59,7 +59,7 @@ I'm a Computer Science student and software engineer focused on the **Mobile Eco
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DerekBurned&show_icons=true&theme=radical&count_private=true" alt="DerekBurned stats" height="180px" />
