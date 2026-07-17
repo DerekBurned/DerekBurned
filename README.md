@@ -36,7 +36,7 @@ Computer Science student and software engineer focused on the **mobile ecosystem
 ### Projects
 
 - **IoT Android SDK** *(2025)* — Headless **BLE/GATT** SDK for IoT device communication, built during internship. Interface-based public API, GATT server/client roles, and full JUnit/MockK unit test coverage without real hardware.
-**[Messenger App](https://github.com/DerekBurned)** · *2025 – present*
+- **[Messenger App](https://github.com/DerekBurned)** · *2025 – present*
 Real-time Android messaging app using Firebase, Retrofit, and REST, focused on UI responsiveness across changing network states.
 - **HackYeah 2025** — Working prototype delivered in 24 hours at Poland's largest hackathon.
 
